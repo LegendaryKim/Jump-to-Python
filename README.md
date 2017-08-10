@@ -7,7 +7,8 @@ Author: 박응용
 
 https://wikidocs.net/book/1
 
-<img src="source/doit_jump2python_640.png" width="200" alt="Combined Image" />
+<img src="source/doit_jump2python_640.png" width="120" alt="Combined Image" />
+
 Description
 ---
 
